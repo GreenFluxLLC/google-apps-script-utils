@@ -12,8 +12,8 @@ Working on backlog of scripts from my old blog posts. Check back for updates!
 ## Scripts
 |name|description|
 |----|-----------|
-|[**docImgToFolder**](scripts/Doc Images to Folder) | Extracts all image from Doc with sourceId and saves them to folderId (or new folder if not specified)|
-|[**postImgToFolder**](scripts/Doc Images to Folder) | Saves an image to folderId (or new folder) when the URL is sent as a POST request to a webapp.|
+|[docImgToFolder](scripts/Doc Images to Folder) | Extracts all image from Doc with sourceId and saves them to folderId (or new folder if not specified)|
+|[postImgToFolder](scripts/Doc Images to Folder) | Saves an image to folderId (or new folder) when the URL is sent as a POST request to a webapp.|
 | ||
 
 ## More Resources
