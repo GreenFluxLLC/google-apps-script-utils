@@ -6,6 +6,8 @@ The `allHeaders` function retrieves all table and column headers from all sheets
 
 ![image](https://github.com/GreenFluxLLC/google-apps-script-utils/assets/24459976/2bcfbaf4-44a1-4624-b887-1da10e0dadb5)
 
+> Orignal Blog Post: https://www.googlecloudcommunity.com/gc/Tips-Tricks/Auto-Fill-a-Sheet-with-All-Table-Column-Names-from-Your-App/m-p/262203
+> 
 ## Usage
 
 To use the function:
