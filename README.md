@@ -12,7 +12,7 @@ Working on backlog of scripts from my old blog posts. Check back for updates!
 ## Scripts
 |name|description|
 |----|-----------|
-|[docImgToFolder](https://github.com/GreenFluxLLC/google-apps-script-utils/blob/main/scripts/Doc%20Images%20to%20Folder/docImgToFolder.js) | Extracts all image from Doc with sourceId and saves them to folderId (or new folder if not specified)|
+|[docImgToFolder](https://github.com/GreenFluxLLC/google-apps-script-utils/blob/main/scripts/Doc%20Images%20to%20Folder/docImgToFolder.js) | Extracts all images from Doc with sourceId and saves them to folderId (or new folder if not specified)|
 |[postFileToFolder](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Post%20File%20to%20Folder) | Saves a file to folderId (or new folder) when the URL is sent as a POST request to a webapp.|
 | ||
 
