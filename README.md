@@ -14,7 +14,13 @@ Working on backlog of scripts from my old blog posts. Check back for updates!
 |----|-----------|
 |[docImgToFolder](https://github.com/GreenFluxLLC/google-apps-script-utils/blob/main/scripts/Doc%20Images%20to%20Folder/docImgToFolder.js) | Extracts all images from Doc with sourceId and saves them to folderId (or new folder if not specified)|
 |[postFileToFolder](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Post%20File%20to%20Folder) | Saves a file to folderId (or new folder) when the URL is sent as a POST request to a webapp.|
-| ||
+|[Get Contacts For Label]([url](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Get%20Contacts%20For%20Label))|This Google Apps Script integrates with the Google Contacts API to retrieve contacts and contact groups. The script exposes a web endpoint that accepts GET requests with parameters to specify the desired operation, such as retrieving contacts belonging to a specific label or fetching all contact groups.|
+|[List Header Names](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/List%20Header%20Names)|The allHeaders function retrieves all table and column headers from all sheets within a Google Sheets document, except the currently active sheet. Each header is represented as a pair [table name, column name].
+
+|
+|[Post File To Folder]([url](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Post%20File%20to%20Folder))|This script is designed to be deployed as a web app and handle POST requests containing file URLs. It downloads the file from the provided URL and saves it to a specified folder in Google Drive.|
+|[Save Email Attachments](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Save%20Email%20Attachments)|downloads new Gmails with a matching label to a Google Sheet. Each email's details, including sender, subject, and body, are saved to the sheet. Additionally, if an email contains attachments, their links are saved in a new column.|
+|[Sheet Backup Scheduler](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Sheet%20Backup%20Scheduler)|Backs up a list of sheets to the specified folder on a schedule|
 
 ## More Resources
 Most of these scripts were first posted within a longer tutorial or blog post. The originals can be found at:
