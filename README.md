@@ -4,8 +4,16 @@ Collection of Google Apps Script Utility Functions
 *Author: Joseph Petty, Founder @ GreenFlux, LLC*
 
 ## Description
-This repo is a collection of Google Apps Scripts that I had originally posted on my blog and several other forums. For the repo version, I'm updating all the scripts to use the same sample dataset, and consolidate them to a single online source. 
+This repo is a collection of Google Apps Scripts that I had originally posted on my blog and several other forums. For the repo version, I'm updating all the scripts to use the same sample dataset, which can be copied here [sample-data](https://www.google.com). 
 
+### Work In Progress
+Working on backlog of scripts from my old blog posts. Check back for updates! 
+
+## Scripts
+- **docImgToFolder**: Extracts all image from Doc with sourceId and saves them to folderId (or new folder if not specified)
+- **postImgToFolder**: Saves an image to folderId (or new folder) when the URL is sent as a POST request to a webapp.
+- 
+- 
 Most of these scripts were first posted within a longer tutorial or blog post. The originals can be found at:
 |   |   |   |   |
 |---|---|---|---|
