@@ -3,6 +3,7 @@
 ## Overview
 
 The `allHeaders` function retrieves all table and column headers from all sheets within a Google Sheets document, except the currently active sheet. Each header is represented as a pair `[table name, column name]`.
+
 ![image](https://github.com/GreenFluxLLC/google-apps-script-utils/assets/24459976/2bcfbaf4-44a1-4624-b887-1da10e0dadb5)
 
 ## Usage
