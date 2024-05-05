@@ -1,6 +1,7 @@
 # Google Sheets Backup Script
 
 This Google Apps Script automates the process of backing up sheets from a source spreadsheet to destination folders in Google Drive.
+> Original Blog Post: https://blog.greenflux.us/save-files-to-google-drive-by-post-ing-the-url-to-a-web-app
 
 ## Overview
 
