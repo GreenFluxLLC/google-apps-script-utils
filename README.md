@@ -10,10 +10,13 @@ This repo is a collection of Google Apps Scripts that I had originally posted on
 Working on backlog of scripts from my old blog posts. Check back for updates! 
 
 ## Scripts
-- **docImgToFolder**: Extracts all image from Doc with sourceId and saves them to folderId (or new folder if not specified)
-- **postImgToFolder**: Saves an image to folderId (or new folder) when the URL is sent as a POST request to a webapp.
-- 
-- 
+|name|description|
+|----|-----------|
+|**docImgToFolder** | Extracts all image from Doc with sourceId and saves them to folderId (or new folder if not specified)|
+|**postImgToFolder** | Saves an image to folderId (or new folder) when the URL is sent as a POST request to a webapp.|
+| ||
+
+
 Most of these scripts were first posted within a longer tutorial or blog post. The originals can be found at:
 |   |   |   |   |
 |---|---|---|---|
