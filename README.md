@@ -1,13 +1,10 @@
 # google-apps-script-utils
-Collection of Google Apps Script Utility Functions
+Collection of Google Apps Script Utility Functions & Web Apps
 
 *Author: Joseph Petty, Founder @ GreenFlux, LLC*
 
 ## Description
-This repo is a collection of Google Apps Scripts that I had originally posted on my blog and several other forums. For the repo version, I'm updating all the scripts to use the same sample dataset, which can be copied here [sample-data](https://www.google.com). 
-
-### Work In Progress
-Working on backlog of scripts from my old blog posts. Check back for updates! 
+This repo is a collection of Google Apps Scripts that I had originally posted on my blog and several other forums. 
 
 ## Scripts
 |name|description|
@@ -19,6 +16,9 @@ Working on backlog of scripts from my old blog posts. Check back for updates!
 |[Post File To Folder](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Post%20File%20to%20Folder)|This script is designed to be deployed as a web app and handle POST requests containing file URLs. It downloads the file from the provided URL and saves it to a specified folder in Google Drive.|
 |[Save Email Attachments](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Save%20Email%20Attachments)|downloads new Gmails with a matching label to a Google Sheet. Each email's details, including sender, subject, and body, are saved to the sheet. Additionally, if an email contains attachments, their links are saved in a new column.|
 |[Sheet Backup Scheduler](https://github.com/GreenFluxLLC/google-apps-script-utils/tree/main/scripts/Sheet%20Backup%20Scheduler)|Backs up a list of sheets to the specified folder on a schedule|
+
+### Work In Progress
+Working on backlog of scripts from my old blog posts. Check back for updates! 
 
 ## More Resources
 Most of these scripts were first posted within a longer tutorial or blog post. The originals can be found at:
