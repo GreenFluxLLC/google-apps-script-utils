@@ -32,7 +32,3 @@ This can be used in other platforms and tools like Appsmith, AppSheet, Bubble, e
 - Contacts are returned with name, phone, and email properties.
 - Contact groups are returned with label and value properties.
 - Errors are handled gracefully, and appropriate error responses are returned for unauthorized requests or failed API calls.
-
-## Script Author
-
-This script was authored by [Your Name]. For more information, visit [Your Website].
