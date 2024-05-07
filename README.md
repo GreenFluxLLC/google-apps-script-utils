@@ -9,7 +9,7 @@ This repo is a collection of Google Apps Scripts that I had originally posted on
 ## Scripts
 |name|description|
 |----|-----------|
-|[Doc Images to Folder](scripts/Doc%20Images%20to%20Folder/docImgToFolder.js) | Extracts all images from Doc with sourceId and saves them to folderId (or new folder if not specified)|
+|[Doc Images to Folder](scripts/Doc%20Images%20to%20Folder) | Extracts all images from Doc with sourceId and saves them to folderId (or new folder if not specified)|
 |[POST File to Folder](scripts/Post%20File%20to%20Folder) | Saves a file to folderId (or new folder) when the URL is sent as a POST request to a webapp.|
 |[Get Contacts For Label](scripts/Get%20Contacts%20For%20Label)|This Google Apps Script integrates with the Google Contacts API to retrieve contacts and contact groups. The script exposes a web endpoint that accepts GET requests with parameters to specify the desired operation, such as retrieving contacts belonging to a specific label or fetching all contact groups.|
 |[List Header Names](scripts/List%20Header%20Names)|The allHeaders function retrieves all table and column headers from all sheets within a Google Sheets document, except the currently active sheet. Each header is represented as a pair [table name, column name].|
