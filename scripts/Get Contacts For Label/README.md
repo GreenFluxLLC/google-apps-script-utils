@@ -3,6 +3,9 @@
 ## Overview
 
 This Google Apps Script integrates with the Google Contacts API to retrieve contacts and contact groups. The script exposes a web endpoint that accepts GET requests with parameters to specify the desired operation, such as retrieving contacts belonging to a specific label or fetching all contact groups.
+
+This can be used in other platforms and tools like Appsmith, AppSheet, Bubble, etc. to provide a dropdown list of contacts from your Google account. 
+
 > Original Blog Post: https://blog.greenflux.us/adding-gmail-contacts-to-appsmith-using-apps-script
 
 ## Usage
