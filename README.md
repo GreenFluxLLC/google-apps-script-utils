@@ -22,7 +22,7 @@ Working on backlog of scripts from my old blog posts. Check back for updates!
 Most of these scripts were first posted within a longer tutorial or blog post. The originals can be found at:
 |   |   |   |   |
 |---|---|---|---|
-|[GreenFlux Blog](https://blog.greenflux.us/) | [AppSheet Forums](https://www.googlecloudcommunity.com/gc/forums/searchpage/tab/message?filter=location,authorId&q=script&noSynonym=false&location=category:appsheet&author_id=312288&collapse_discussion=true) | [Appsmith Forums](https://community.appsmith.com/tag/google-apps-script) | [u/HomeBrewDude on Reddit](https://www.reddit.com/user/HomeBrewDude/) |
+|[GreenFlux Blog](https://blog.greenflux.us/) | [AppSheet Forums](https://www.googlecloudcommunity.com/gc/forums/searchpage/tab/message?filter=location,authorId&q=script&noSynonym=false&location=category:appsheet&author_id=312288&collapse_discussion=true) | [Appsmith Community](https://community.appsmith.com/tag/google-apps-script) | [u/HomeBrewDude on Reddit](https://www.reddit.com/user/HomeBrewDude/) |
 
 
 ![image](https://github.com/GreenFluxLLC/google-apps-script-utils/assets/24459976/c14013a0-cb7a-4843-8913-f82e86e9e167)
