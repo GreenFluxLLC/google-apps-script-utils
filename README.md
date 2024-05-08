@@ -1,10 +1,8 @@
 # google-apps-script-utils
 Collection of Google Apps Script Utility Functions & Web Apps
 
-*Author: Joseph Petty, Founder @ GreenFlux, LLC*
-
 ## Description
-This repo is a collection of Google Apps Scripts that I had originally posted on my blog and several other forums. 
+This repo is a collection of Google Apps Scripts that I had originally posted on my blog and several other forums. I'm consolidating all of the scripts here, and linking to the original blog posts. 
 
 ## Scripts
 |name|description|
