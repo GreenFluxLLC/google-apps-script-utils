@@ -1,6 +1,7 @@
 # Google Drive File Downloader Web App
 
 This Google Apps Script processes POST requests containing file URLs and saves the files to Google Drive.
+> Original Blog Post: https://blog.greenflux.us/save-files-to-google-drive-by-post-ing-the-url-to-a-web-app
 
 ## Description
 
