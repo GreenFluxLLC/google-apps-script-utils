@@ -17,6 +17,7 @@ This repo is a collection of Google Apps Scripts that I had originally posted on
 |[Post File To Folder](scripts/Post%20File%20to%20Folder)|Creates a `POST` endpoint to save files to Drive. It downloads the file from the provided URL and saves it to a specified folder.|
 |[Save Email Attachments](scripts/Save%20Email%20Attachments)|Downloads new Gmails with a matching label to a Google Sheet. Each email's details, including sender, subject, and body, are saved to the sheet. Additionally, if an email contains attachments, their links are saved in a new column.|
 |[Sheet Backup Scheduler](scripts/Sheet%20Backup%20Scheduler)|Backs up a list of sheets to the specified folder on a schedule|
+|[Data-Driven Organizational Chart](scripts/OrgChart)|Data-Driven Organizational Chart using OrgChart JS|
 
 ## More Resources
 Most of these scripts were first posted within a longer tutorial or blog post. The originals can be found at:
